@@ -1,0 +1,33 @@
+{
+  "name": "@konojunya/react-golang-sample",
+  "version": "1.0.0",
+  "description": "[CODE SANDBOX] React with golang sample.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/react-golang-sample.git"
+  },
+  "keywords": [],
+  "author": "konojunya <junya.developer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konojunya/react-golang-sample/issues"
+  },
+  "homepage": "https://github.com/konojunya/react-golang-sample#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4"
+  }
+}
